@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/algoace99/dsa_practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/algoace99/dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
