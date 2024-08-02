@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/algoace99/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/algoace99/dsa_practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/algoace99/dsa_practice/tree/master/1894-merge-strings-alternately) |
@@ -103,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/algoace99/dsa_practice/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
