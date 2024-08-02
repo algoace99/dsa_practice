@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/algoace99/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/algoace99/dsa_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/algoace99/dsa_practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/algoace99/dsa_practice/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
