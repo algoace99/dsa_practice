@@ -1,10 +1,11 @@
 class Solution:
     def validateArrayContainsDuplicates(self, l: List[str]) -> bool:
         # return True if contains duplicates
-        c = Counter(l)
-        for key, value in c.items():
-            if key != "." and value > 1:
+        s=set()
+        for i in l:
+            if i != "." and i in s:
                 return True
+            s.add(i)
         return False
 
     def isValidSudoku(self, board: List[List[str]]) -> bool:
