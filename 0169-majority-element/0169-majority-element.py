@@ -1,5 +1,10 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        nums.sort()
+        return nums[len(nums)//2]
+        '''
+        #Moore's voting algorithm 
+        #No extra space and O(n) time
         count=0
         ans=0
         for i in nums:
@@ -12,6 +17,9 @@ class Solution:
                 count-=1
         return ans
         '''
+
+        '''
+        #With extra space and O(n) time
         d={}
         for i in nums:
             if i not in d:
