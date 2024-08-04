@@ -1,5 +1,17 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        count=0
+        ans=0
+        for i in nums:
+            if count==0:
+                ans=i
+                count=1
+            elif(ans==i):
+                count+=1
+            else:
+                count-=1
+        return ans
+        '''
         d={}
         for i in nums:
             if i not in d:
@@ -13,3 +25,4 @@ class Solution:
                 count=value
                 k=key
         return k
+        '''
