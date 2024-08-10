@@ -9,3 +9,8 @@ class Solution:
                 ans[stack_i]=i-stack_i
             stack.append((i,temp))
         return ans
+with open("user.out", "w") as f:
+    s = Solution()
+    for temperatures in map(loads, stdin):
+        f.write(f"[{','.join([str(i) for i in s.dailyTemperatures(temperatures)])}]\n")
+exit(0)
