@@ -4,15 +4,13 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def insertAtBeginning(self,head,node):
-        
-        return head
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
         curr = head
         while curr.next:
             next_node = curr.next
+
             curr.next = next_node.next
             next_node.next = head
             head = next_node
