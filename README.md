@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/algoace99/dsa_practice/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/algoace99/dsa_practice/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/algoace99/dsa_practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/algoace99/dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/algoace99/dsa_practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/algoace99/dsa_practice/tree/master/0049-group-anagrams) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/algoace99/dsa_practice/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
