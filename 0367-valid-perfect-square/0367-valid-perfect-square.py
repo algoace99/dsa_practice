@@ -1,7 +1,8 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
-        #return (True if math.floor(math.sqrt(num))**2==num else False)
+        return (True if math.floor(math.sqrt(num))**2==num else False)
 
+        '''
         #two pointer approach without inbuilt methods
         if num<2: return True
         l,r=0,num//2
@@ -15,3 +16,4 @@ class Solution:
             else:
                 r=m-1
         return False
+        '''
