@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/algoace99/dsa_practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/algoace99/dsa_practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/algoace99/dsa_practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoace99/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/algoace99/dsa_practice/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/algoace99/dsa_practice/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
