@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/algoace99/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/algoace99/dsa_practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/algoace99/dsa_practice/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/algoace99/dsa_practice/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/algoace99/dsa_practice/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/algoace99/dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoace99/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/algoace99/dsa_practice/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
