@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/algoace99/dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/algoace99/dsa_practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoace99/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/algoace99/dsa_practice/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/algoace99/dsa_practice/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/algoace99/dsa_practice/tree/master/0040-combination-sum-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/algoace99/dsa_practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
