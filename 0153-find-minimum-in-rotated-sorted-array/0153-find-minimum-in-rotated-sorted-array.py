@@ -8,13 +8,16 @@ class Solution:
         '''
         #return min(nums)
 
-        n = len(nums)
-        l = 0
-        r = n - 1
-        while l < r:
-            m = (l + r) // 2
-            if nums[m] > nums[r]:
-                l = m + 1
+        if len(nums)==1: return nums[0]
+        if len(nums)==2: return min(nums)
+        start=1
+        end=len(nums)-1
+        while(start<=end):
+            m=start+(end-start)//2
+            if nums[m]<nums[m-1]:
+                return nums[m]
+            elif nums[m]<nums[-1]:
+                end=m-1
             else:
-                r = m
-        return nums[l]
+                start=m+1
+        return nums[0]
