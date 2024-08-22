@@ -21,9 +21,8 @@ class Solution:
         #Space: O(1)
         max_w = 0
         num_zeros = 0
-        n = len(nums)
         l = 0
-        for r in range(n):
+        for r in range(len(nums)):
             if nums[r] == 0:
                 num_zeros += 1
             while num_zeros > k:
