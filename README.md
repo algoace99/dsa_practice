@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoace99/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/algoace99/dsa_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/algoace99/dsa_practice/tree/master/1894-merge-strings-alternately) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoace99/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/algoace99/dsa_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/algoace99/dsa_practice/tree/master/1894-merge-strings-alternately) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/algoace99/dsa_practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoace99/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/algoace99/dsa_practice/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/algoace99/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/algoace99/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoace99/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/algoace99/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/algoace99/dsa_practice/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
