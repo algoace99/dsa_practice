@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/algoace99/dsa_practice/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/algoace99/dsa_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/algoace99/dsa_practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2048-build-array-from-permutation](https://github.com/algoace99/dsa_practice/tree/master/2048-build-array-from-permutation) |
 | [2350-find-closest-number-to-zero](https://github.com/algoace99/dsa_practice/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
