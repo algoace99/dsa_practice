@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/algoace99/dsa_practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2048-build-array-from-permutation](https://github.com/algoace99/dsa_practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/algoace99/dsa_practice/tree/master/2058-concatenation-of-array) |
+| [2155-find-missing-observations](https://github.com/algoace99/dsa_practice/tree/master/2155-find-missing-observations) |
 | [2350-find-closest-number-to-zero](https://github.com/algoace99/dsa_practice/tree/master/2350-find-closest-number-to-zero) |
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/algoace99/dsa_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/algoace99/dsa_practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/algoace99/dsa_practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/algoace99/dsa_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/algoace99/dsa_practice/tree/master/2155-find-missing-observations) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2155-find-missing-observations](https://github.com/algoace99/dsa_practice/tree/master/2155-find-missing-observations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/algoace99/dsa_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
