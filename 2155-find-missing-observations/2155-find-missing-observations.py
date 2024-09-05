@@ -8,10 +8,8 @@ class Solution:
             return []
 
         ans = [1]*n
-
         req_sum -= n
         index = 0
-
 
         while req_sum > 0:
             dice = min(req_sum,6-ans[index])
