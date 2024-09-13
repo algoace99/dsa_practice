@@ -4,7 +4,6 @@ class Solution:
         for i in arr:
             pre.append(pre[-1]^i)
         ans = []
-        print(pre)
         for start, end in queries:
             ans.append(pre[end+1]^pre[start])
         return ans
