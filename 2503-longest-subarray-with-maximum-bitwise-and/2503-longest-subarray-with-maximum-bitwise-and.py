@@ -1,17 +1,12 @@
 class Solution:
     def longestSubarray(self, nums: List[int]) -> int:
-        maxBitwiseAnd = max(nums)
-        maxi = 1
-        count = 0
-        i = 0
+        ans, cnt = 0, 0
         
-        while i < len(nums):
-            if nums[i] == maxBitwiseAnd:
-                while i < len(nums) and nums[i] == maxBitwiseAnd:
-                    count += 1
-                    i += 1
-                maxi = max(maxi, count)
-                count = 0
+        max_element = max(nums)
+        for num in nums:
+            if num == max_element:
+                cnt += 1
             else:
-                i += 1
-        return maxi
+                cnt = 0
+            ans = max(ans, cnt)
+        return ans
