@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/algoace99/dsa_practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/algoace99/dsa_practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/algoace99/dsa_practice/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/algoace99/dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/algoace99/dsa_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/algoace99/dsa_practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/algoace99/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/algoace99/dsa_practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/algoace99/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/algoace99/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/algoace99/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/algoace99/dsa_practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/algoace99/dsa_practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/algoace99/dsa_practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/algoace99/dsa_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/algoace99/dsa_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoace99/dsa_practice/tree/master/0242-valid-anagram) |
