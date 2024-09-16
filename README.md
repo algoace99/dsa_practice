@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/algoace99/dsa_practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/algoace99/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/algoace99/dsa_practice/tree/master/0283-move-zeroes) |
+| [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/algoace99/dsa_practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/algoace99/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/algoace99/dsa_practice/tree/master/0682-baseball-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/algoace99/dsa_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/algoace99/dsa_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoace99/dsa_practice/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoace99/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/algoace99/dsa_practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
+| [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/algoace99/dsa_practice/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/algoace99/dsa_practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
