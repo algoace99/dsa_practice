@@ -8,8 +8,9 @@ class Solution:
         rev_s = s[::-1]
         if s==rev_s:
             return s
+        start = 0
         end = len(s) - 1 
-        while end >= 0:
+        while end >= start:
             if s[:end] == rev_s[len(s) - end:]:
                 return rev_s[:len(s) - end] + s
             end -= 1
