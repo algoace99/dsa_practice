@@ -4,12 +4,13 @@ class Solution:
             return ""
         if len(s)==1:
             return s
-        if s==s[:][::-1]:
+
+        rev_s = s[::-1]
+        if s==rev_s:
             return s
-        start = 0
-        end = len(s)-1
-        while start <= end:
-            if s[:end]==s[:end][::-1]:
-                return s[end:][::-1]+s
-            else:
-                end -= 1
+        end = len(s) - 1 
+        while end >= 0:
+            if s[:end] == rev_s[len(s) - end:]:
+                return rev_s[:len(s) - end] + s
+            end -= 1
+        return "" 
