@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/algoace99/dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/algoace99/dsa_practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/algoace99/dsa_practice/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/algoace99/dsa_practice/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/algoace99/dsa_practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/algoace99/dsa_practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/algoace99/dsa_practice/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/algoace99/dsa_practice/tree/master/0191-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
