@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/algoace99/dsa_practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/algoace99/dsa_practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/algoace99/dsa_practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/algoace99/dsa_practice/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/algoace99/dsa_practice/tree/master/0605-can-place-flowers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/algoace99/dsa_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/algoace99/dsa_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoace99/dsa_practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/algoace99/dsa_practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoace99/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/algoace99/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/algoace99/dsa_practice/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/algoace99/dsa_practice/tree/master/0374-guess-number-higher-or-lower) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/algoace99/dsa_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/algoace99/dsa_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoace99/dsa_practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoace99/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/algoace99/dsa_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/algoace99/dsa_practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
