@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/algoace99/dsa_practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/algoace99/dsa_practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/algoace99/dsa_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/algoace99/dsa_practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/algoace99/dsa_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/algoace99/dsa_practice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
