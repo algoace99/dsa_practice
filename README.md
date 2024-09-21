@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/algoace99/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/algoace99/dsa_practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/algoace99/dsa_practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/algoace99/dsa_practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/algoace99/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/algoace99/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/algoace99/dsa_practice/tree/master/0214-shortest-palindrome) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/algoace99/dsa_practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/algoace99/dsa_practice/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/algoace99/dsa_practice/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/algoace99/dsa_practice/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/algoace99/dsa_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/algoace99/dsa_practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/algoace99/dsa_practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/algoace99/dsa_practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/algoace99/dsa_practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/algoace99/dsa_practice/tree/master/0067-add-binary) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
