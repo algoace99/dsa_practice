@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/algoace99/dsa_practice/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/algoace99/dsa_practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/algoace99/dsa_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/algoace99/dsa_practice/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/algoace99/dsa_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/algoace99/dsa_practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/algoace99/dsa_practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/algoace99/dsa_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
