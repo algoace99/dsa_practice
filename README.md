@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/algoace99/dsa_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2411-spiral-matrix-iv](https://github.com/algoace99/dsa_practice/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/algoace99/dsa_practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/algoace99/dsa_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/algoace99/dsa_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/algoace99/dsa_practice/tree/master/1894-merge-strings-alternately) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/algoace99/dsa_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/algoace99/dsa_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/algoace99/dsa_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/algoace99/dsa_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
