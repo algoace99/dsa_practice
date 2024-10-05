@@ -1,13 +1,10 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        from collections import Counter
-
-        l=0
-        r=len(s1)
-        d1=Counter(s1)
-        while r<=len(s2):
-            if Counter(s2[l:r]) == d1:
+        if (len(s1)==1 and s1 in s2) or s1 == s2:
+            return True
+        s1_count = Counter(s1)
+        for i in range(0,len(s2)-len(s1)+1):
+            s2_count = Counter(s2[i:i+len(s1)])
+            if s1_count == s2_count:
                 return True
-            r+=1
-            l+=1
         return False
