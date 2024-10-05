@@ -1,7 +1,7 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         s1_count = Counter(s1)
-        s2_count = Counter(s2[:len(s1)])  # First window of size s1
+        s2_count = Counter(s2[:len(s1)])
         
         if s1_count == s2_count:
             return True
