@@ -4,13 +4,7 @@ class Solution:
             return 1
         sta = []
         for i in s:
-            print(sta)
-            if len(sta) == 0:
-                sta.append(i)
-                continue
-            if i=="B" and sta[-1]=="A":
-                sta.pop()
-            elif i=="D" and sta[-1]=="C":
+            if len(sta)>0 and ((i=="B" and sta[-1]=="A") or (i=="D" and sta[-1]=="C")):
                 sta.pop()
             else:
                 sta.append(i)
