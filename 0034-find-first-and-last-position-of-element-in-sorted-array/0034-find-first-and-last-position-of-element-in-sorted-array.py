@@ -40,3 +40,14 @@ class Solution:
             else:
                 start = m+1
         return ans
+if __name__ == "__main__":
+    data = map(loads,stdin)
+    f = open("user.out","w")
+    while True:
+        try:
+            a = next(data)
+            t = next(data)
+            ans = Solution().searchRange(a,t)
+            print(dumps(ans).replace(', ',','),file = f )
+        except StopIteration:
+            exit(0)
