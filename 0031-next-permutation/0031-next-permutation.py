@@ -8,9 +8,8 @@ class Solution:
             if nums[i] > nums[i-1]:
                 index = i-1
                 break
-        print(index)
         if index == -1:
-            nums.reverse()
+            nums.sort()
         else:
             num = -1
             for i in range(len(nums)-1,index,-1):
