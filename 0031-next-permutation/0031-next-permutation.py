@@ -9,7 +9,7 @@ class Solution:
                 index = i-1
                 break
         if index == -1:
-            nums.sort()
+            nums.reverse()
         else:
             num = -1
             for i in range(len(nums)-1,index,-1):
