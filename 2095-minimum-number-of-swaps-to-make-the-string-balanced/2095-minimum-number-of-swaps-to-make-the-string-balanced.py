@@ -12,6 +12,7 @@ class Solution:
                 unbalanced+=1
         return math.ceil(unbalanced/2)
         '''
+        '''
         arr = 0
         unbalanced = 0
         for i in s:
@@ -19,6 +20,16 @@ class Solution:
                 arr+=1
             elif arr > 0:
                 arr-=1
+            else:
+                unbalanced+=1
+        return math.ceil(unbalanced/2)
+        '''
+        unbalanced = 0
+        for i in s:
+            if i=="[":
+                unbalanced+=1
+            elif unbalanced > 0:
+                unbalanced-=1
             else:
                 unbalanced+=1
         return math.ceil(unbalanced/2)
