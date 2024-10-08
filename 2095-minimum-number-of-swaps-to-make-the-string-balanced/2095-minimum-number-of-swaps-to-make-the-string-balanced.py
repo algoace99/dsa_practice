@@ -5,9 +5,8 @@ class Solution:
         for i in s:
             if i=="[":
                 arr.append(i)
+            elif len(arr)!=0:
+                arr.pop()
             else:
-                if len(arr)!=0:
-                    arr.pop()
-                else:
-                    unbalanced+=1
+                unbalanced+=1
         return (unbalanced+1)//2
