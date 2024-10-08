@@ -9,4 +9,4 @@ class Solution:
                 arr.pop()
             else:
                 unbalanced+=1
-        return (unbalanced+1)//2
+        return math.ceil(unbalanced/2)
