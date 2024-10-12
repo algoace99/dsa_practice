@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/algoace99/dsa_practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/algoace99/dsa_practice/tree/master/1923-sentence-similarity-iii) |
+| [1983-maximum-population-year](https://github.com/algoace99/dsa_practice/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/algoace99/dsa_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/algoace99/dsa_practice/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/algoace99/dsa_practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/algoace99/dsa_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1983-maximum-population-year](https://github.com/algoace99/dsa_practice/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/algoace99/dsa_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/algoace99/dsa_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/algoace99/dsa_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1983-maximum-population-year](https://github.com/algoace99/dsa_practice/tree/master/1983-maximum-population-year) |
 ## String Matching
 |  |
 | ------- |
