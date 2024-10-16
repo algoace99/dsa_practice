@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/algoace99/dsa_practice/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
+| [0575-distribute-candies](https://github.com/algoace99/dsa_practice/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/algoace99/dsa_practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/algoace99/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/algoace99/dsa_practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoace99/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/algoace99/dsa_practice/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [0906-walking-robot-simulation](https://github.com/algoace99/dsa_practice/tree/master/0906-walking-robot-simulation) |
