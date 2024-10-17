@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/algoace99/dsa_practice/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/algoace99/dsa_practice/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/algoace99/dsa_practice/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/algoace99/dsa_practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/algoace99/dsa_practice/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/algoace99/dsa_practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/algoace99/dsa_practice/tree/master/0670-maximum-swap) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/algoace99/dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/algoace99/dsa_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
