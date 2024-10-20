@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/algoace99/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/algoace99/dsa_practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/algoace99/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/algoace99/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/algoace99/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoace99/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/algoace99/dsa_practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/algoace99/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/algoace99/dsa_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/algoace99/dsa_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/algoace99/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/algoace99/dsa_practice/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/algoace99/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/algoace99/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/algoace99/dsa_practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/algoace99/dsa_practice/tree/master/0792-binary-search) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/algoace99/dsa_practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/algoace99/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
