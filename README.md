@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/algoace99/dsa_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/algoace99/dsa_practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1297-maximum-number-of-balloons](https://github.com/algoace99/dsa_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/algoace99/dsa_practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/algoace99/dsa_practice/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/algoace99/dsa_practice/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/algoace99/dsa_practice/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/algoace99/dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/algoace99/dsa_practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0234-palindrome-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/algoace99/dsa_practice/tree/master/1197-parsing-a-boolean-expression) |
 ## Backtracking
 |  |
 | ------- |
