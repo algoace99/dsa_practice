@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/algoace99/dsa_practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/algoace99/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/algoace99/dsa_practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/algoace99/dsa_practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/algoace99/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/algoace99/dsa_practice/tree/master/0792-binary-search) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/algoace99/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/algoace99/dsa_practice/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/algoace99/dsa_practice/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/algoace99/dsa_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/algoace99/dsa_practice/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/algoace99/dsa_practice/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/algoace99/dsa_practice/tree/master/0782-jewels-and-stones) |
 | [0906-walking-robot-simulation](https://github.com/algoace99/dsa_practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/algoace99/dsa_practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/algoace99/dsa_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/algoace99/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/algoace99/dsa_practice/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/algoace99/dsa_practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
