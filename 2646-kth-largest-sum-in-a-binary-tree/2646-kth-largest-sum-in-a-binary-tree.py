@@ -12,7 +12,9 @@ class Solution:
         
         while temp:
             current_sum = sum([i.val for i in temp])
-            res.append(current_sum)
+            heapq.heappush(res, current_sum)
+            if len(res) > k:
+                heapq.heappop(res)
             local_temp = []
             for i in temp:
                 if i.left is not None:
@@ -20,5 +22,4 @@ class Solution:
                 if i.right is not None:
                     local_temp.append(i.right)
             temp = local_temp
-        res.sort()
-        return -1 if len(res) < k else res[-k]
+        return -1 if len(res) < k else res[0]
