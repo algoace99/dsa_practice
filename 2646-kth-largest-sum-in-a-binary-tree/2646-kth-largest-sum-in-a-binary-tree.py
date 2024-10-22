@@ -23,3 +23,21 @@ class Solution:
                     local_temp.append(i.right)
             temp = local_temp
         return -1 if len(res) < k else res[0]
+        '''
+        res = []
+        temp = [root]
+        current_sum = 0
+        
+        while temp:
+            current_sum = sum([i.val for i in temp])
+            res.append(current_sum)
+            local_temp = []
+            for i in temp:
+                if i.left is not None:
+                    local_temp.append(i.left)
+                if i.right is not None:
+                    local_temp.append(i.right)
+            temp = local_temp
+        res.sort()
+        return -1 if len(res) < k else res[-k]
+        '''
