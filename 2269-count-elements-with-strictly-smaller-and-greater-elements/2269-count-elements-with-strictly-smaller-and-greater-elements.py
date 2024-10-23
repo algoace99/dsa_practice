@@ -1,3 +1,9 @@
+import numpy
+import os
+import sys
+import math
+import random
+
 class Solution:
     def countElements(self, nums: List[int]) -> int:
         res = len(nums) - nums.count(min(nums)) - nums.count(max(nums))
