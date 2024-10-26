@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/algoace99/dsa_practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/algoace99/dsa_practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/algoace99/dsa_practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/algoace99/dsa_practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/algoace99/dsa_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/algoace99/dsa_practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/algoace99/dsa_practice/tree/master/0287-find-the-duplicate-number) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/algoace99/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/algoace99/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/algoace99/dsa_practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/algoace99/dsa_practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/algoace99/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/algoace99/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/algoace99/dsa_practice/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/algoace99/dsa_practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -526,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/algoace99/dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/algoace99/dsa_practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/algoace99/dsa_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
