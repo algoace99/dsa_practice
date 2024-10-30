@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/algoace99/dsa_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/algoace99/dsa_practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/algoace99/dsa_practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/algoace99/dsa_practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/algoace99/dsa_practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/algoace99/dsa_practice/tree/master/1923-sentence-similarity-iii) |
 | [1983-maximum-population-year](https://github.com/algoace99/dsa_practice/tree/master/1983-maximum-population-year) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/algoace99/dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/algoace99/dsa_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/algoace99/dsa_practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/algoace99/dsa_practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Trie
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/algoace99/dsa_practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/algoace99/dsa_practice/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/algoace99/dsa_practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/algoace99/dsa_practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/algoace99/dsa_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/algoace99/dsa_practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/algoace99/dsa_practice/tree/master/0670-maximum-swap) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/algoace99/dsa_practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/algoace99/dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/algoace99/dsa_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
