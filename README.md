@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/algoace99/dsa_practice/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/algoace99/dsa_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/algoace99/dsa_practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3324-split-the-array](https://github.com/algoace99/dsa_practice/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/algoace99/dsa_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Counting
 |  |
 | ------- |
