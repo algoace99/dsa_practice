@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/algoace99/dsa_practice/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/algoace99/dsa_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3451-string-compression-iii](https://github.com/algoace99/dsa_practice/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
