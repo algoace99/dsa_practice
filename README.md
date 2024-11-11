@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/algoace99/dsa_practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/algoace99/dsa_practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/algoace99/dsa_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/algoace99/dsa_practice/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/algoace99/dsa_practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3324-split-the-array](https://github.com/algoace99/dsa_practice/tree/master/3324-split-the-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/algoace99/dsa_practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/algoace99/dsa_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2155-find-missing-observations](https://github.com/algoace99/dsa_practice/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/algoace99/dsa_practice/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/algoace99/dsa_practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/algoace99/dsa_practice/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/algoace99/dsa_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/algoace99/dsa_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/algoace99/dsa_practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/algoace99/dsa_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/algoace99/dsa_practice/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/algoace99/dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/algoace99/dsa_practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/algoace99/dsa_practice/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/algoace99/dsa_practice/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/algoace99/dsa_practice/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/algoace99/dsa_practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
