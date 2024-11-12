@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/algoace99/dsa_practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/algoace99/dsa_practice/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/algoace99/dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/algoace99/dsa_practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/algoace99/dsa_practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2350-find-closest-number-to-zero](https://github.com/algoace99/dsa_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/algoace99/dsa_practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/algoace99/dsa_practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/algoace99/dsa_practice/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/algoace99/dsa_practice/tree/master/1019-squares-of-a-sorted-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/algoace99/dsa_practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/algoace99/dsa_practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/algoace99/dsa_practice/tree/master/2554-minimum-total-distance-traveled) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/algoace99/dsa_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/algoace99/dsa_practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/algoace99/dsa_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/algoace99/dsa_practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/algoace99/dsa_practice/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
