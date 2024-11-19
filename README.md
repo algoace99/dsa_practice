@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/algoace99/dsa_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/algoace99/dsa_practice/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/algoace99/dsa_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoace99/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/algoace99/dsa_practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/algoace99/dsa_practice/tree/master/0234-palindrome-linked-list) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/algoace99/dsa_practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/algoace99/dsa_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/algoace99/dsa_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/algoace99/dsa_practice/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/algoace99/dsa_practice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/algoace99/dsa_practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/algoace99/dsa_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/algoace99/dsa_practice/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/algoace99/dsa_practice/tree/master/0572-subtree-of-another-tree) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/algoace99/dsa_practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/algoace99/dsa_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/algoace99/dsa_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/algoace99/dsa_practice/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/algoace99/dsa_practice/tree/master/0988-flip-equivalent-binary-trees) |
