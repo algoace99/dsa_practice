@@ -7,6 +7,8 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         # Pre-Order - root, left, roght
+        '''
+        # Iterative Approach
         if root is None:
             return []
 
@@ -19,4 +21,17 @@ class Solution:
                 s.append(temp.right)
             if temp.left:
                 s.append(temp.left)
+        return ans
+        '''
+        # Recursive Approach
+        ans = []
+        def pre_order(node):
+            if node is None:
+                return
+            ans.append(node.val)
+            pre_order(node.left)
+            pre_order(node.right)
+        
+        pre_order(root)
+
         return ans
