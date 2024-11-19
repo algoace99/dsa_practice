@@ -7,9 +7,7 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         '''
-        if root is None: return 0
-        return 1+max(self.maxDepth(root.left),self.maxDepth(root.right))
-        '''
+        # Iterative, Level Order Traversal
         if root is None:
             return 0
         
@@ -25,3 +23,8 @@ class Solution:
                     temp.append(i.right)
             level = temp
         return depth
+        '''
+        # Recursive
+        if root is None: 
+            return 0
+        return 1+max(self.maxDepth(root.left),self.maxDepth(root.right))
