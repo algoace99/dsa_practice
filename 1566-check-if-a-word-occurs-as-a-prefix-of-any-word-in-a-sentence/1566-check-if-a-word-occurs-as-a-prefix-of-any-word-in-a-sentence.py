@@ -1,17 +1,21 @@
 class Solution:
     def isPrefixOfWord(self, sentence: str, searchWord: str) -> int:
         '''
+        # Time - O(n)
+        # Space - O(n)
         l = sentence.split(" ")
         for i in range(len(l)):
             if l[i][:len(searchWord)] == searchWord:
                 return i+1
         return -1
         '''
+        # Time - O(n)
+        # Space - O(1)
         sentence_len = len(sentence)
         searchWord_len = len(searchWord)
 
         current_word = 1
-        
+
         if sentence[:searchWord_len] == searchWord:
             return 1
 
