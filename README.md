@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3324-split-the-array](https://github.com/algoace99/dsa_practice/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/algoace99/dsa_practice/tree/master/3427-special-array-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/algoace99/dsa_practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/algoace99/dsa_practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/algoace99/dsa_practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/algoace99/dsa_practice/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/algoace99/dsa_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/algoace99/dsa_practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/algoace99/dsa_practice/tree/master/3427-special-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/algoace99/dsa_practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/algoace99/dsa_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/algoace99/dsa_practice/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/algoace99/dsa_practice/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
