@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/algoace99/dsa_practice/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/algoace99/dsa_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/algoace99/dsa_practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/algoace99/dsa_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/algoace99/dsa_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/algoace99/dsa_practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/algoace99/dsa_practice/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/algoace99/dsa_practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/algoace99/dsa_practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/algoace99/dsa_practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/algoace99/dsa_practice/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/algoace99/dsa_practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/algoace99/dsa_practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/algoace99/dsa_practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Hash Function
