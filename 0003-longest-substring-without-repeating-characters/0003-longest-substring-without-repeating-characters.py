@@ -10,3 +10,4 @@ class Solution:
             longest=max(longest,r-l+1)
             sett.add(s[r])
         return longest
+        
