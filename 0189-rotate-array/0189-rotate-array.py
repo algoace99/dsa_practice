@@ -12,6 +12,8 @@ class Solution:
                 nums[i] = nums[i-1]
             nums[0] = last_ele
         '''
+        # Time = O(n)
+        # Space = O(n)
         k = k % len(nums)
         if k != 0:
             nums[:] = nums[len(nums)-k:]+nums[:-k]
