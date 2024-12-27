@@ -1,5 +1,8 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
+        '''
+        # Time = O(n)
+        # Space = O(n)
         pivot_element = 0
         for i in range(1, len(nums)):
             if nums[i] < nums[i-1]:
@@ -14,3 +17,14 @@ class Solution:
             return True
         else:
             return False
+        '''
+        # Time = O(n)
+        # Space = O(1)
+        count = 0
+        n = len(nums)
+        for i in range(n):
+            if nums[i] > nums[(i+1) % n]:
+                count += 1
+            if count > 1:
+                return False
+        return True
