@@ -7,7 +7,6 @@ class Solution:
         end = len(nums)-1
         i = 0
         while i <= end:
-            print(nums)
             if nums[i] == 0:
                 nums[i],nums[start] = nums[start],nums[i]
                 start += 1
