@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/algoace99/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/algoace99/dsa_practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/algoace99/dsa_practice/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/algoace99/dsa_practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0739-daily-temperatures](https://github.com/algoace99/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/algoace99/dsa_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/algoace99/dsa_practice/tree/master/0787-sliding-puzzle) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/algoace99/dsa_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/algoace99/dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/algoace99/dsa_practice/tree/master/0392-is-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/algoace99/dsa_practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/algoace99/dsa_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/algoace99/dsa_practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/algoace99/dsa_practice/tree/master/2554-minimum-total-distance-traveled) |
