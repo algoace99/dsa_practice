@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/algoace99/dsa_practice/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/algoace99/dsa_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3451-string-compression-iii](https://github.com/algoace99/dsa_practice/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/algoace99/dsa_practice/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/algoace99/dsa_practice/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/algoace99/dsa_practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/algoace99/dsa_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/algoace99/dsa_practice/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/algoace99/dsa_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/algoace99/dsa_practice/tree/master/3324-split-the-array) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/algoace99/dsa_practice/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/algoace99/dsa_practice/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
 | ------- |
