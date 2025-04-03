@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/algoace99/dsa_practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/algoace99/dsa_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/algoace99/dsa_practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/algoace99/dsa_practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3194-find-words-containing-character](https://github.com/algoace99/dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/algoace99/dsa_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/algoace99/dsa_practice/tree/master/3324-split-the-array) |
