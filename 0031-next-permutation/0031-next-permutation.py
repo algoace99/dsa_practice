@@ -3,17 +3,30 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        index = -1
-        for i in range(len(nums)-1,0,-1):
+        dip = -1
+        i = len(nums)-1
+
+        # find dip element
+        while i > 0:
             if nums[i] > nums[i-1]:
-                index = i-1
+                dip = i-1
                 break
-        if index == -1:
-            nums.reverse()
+            i -= 1
+
+        # if nums are in increasing order
+        if dip == -1:
+            nums[:] = nums[::-1]
         else:
-            num = -1
-            for i in range(len(nums)-1,index,-1):
-                if nums[i] > nums[index]:
-                    nums[i], nums[index] = nums[index], nums[i]
+            # find element which is just greater then dip in right side
+            i = len(nums)-1
+            swap_ind = -1
+            while i >= dip:
+                if nums[i] > nums[dip]:
+                    swap_ind = i
                     break
-            nums[index+1:] = sorted(nums[index+1:])
+                i-=1
+            # swap elements
+            nums[dip], nums[swap_ind] = nums[swap_ind], nums[dip]
+
+            # revrse remaining elements after dip
+            nums[dip+1:] = nums[dip+1:][::-1]
