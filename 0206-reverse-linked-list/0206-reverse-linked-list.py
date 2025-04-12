@@ -4,19 +4,6 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head or not head.next:
-            return head
-        curr = head
-        while curr.next:
-            next_node = curr.next
-
-            curr.next = next_node.next
-            next_node.next = head
-            head = next_node
-        return head
-'''
-class Solution:
     def insertAtBeginning(self,head,node):
         node.next = head
         head = node
@@ -24,7 +11,6 @@ class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
-        
         curr = head
         while curr.next:
             next_node = curr.next
@@ -32,4 +18,3 @@ class Solution:
             head = self.insertAtBeginning(head, next_node)
         
         return head
-'''
